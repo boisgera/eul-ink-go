@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -avzh * boisgera@eul.ink:/www/go/
